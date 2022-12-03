@@ -1,2 +1,2 @@
 #!/bin/bash
-chown chgrp --from=vicent:staff
+chown vincent:staff .*
