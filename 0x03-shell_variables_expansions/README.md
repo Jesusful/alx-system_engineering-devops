@@ -1,1 +1,1 @@
-My first shell variable expansion
+My first shell expansion
